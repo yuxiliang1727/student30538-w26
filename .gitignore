@@ -1,3 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+enforcement_actions_*.csv
 .DS_Store
 **/.DS_Store
 .venv/
